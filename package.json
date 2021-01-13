@@ -1,6 +1,6 @@
 {
   "name": "quote.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Picks random quote(s).",
   "main": "index.js",
   "repository": {
