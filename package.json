@@ -1,22 +1,19 @@
 {
-  "name": "quote-generator",
+  "name": "quote.js",
   "version": "1.0.0",
-  "description": "Generates a random quote.",
+  "description": "Picks random quote(s).",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BramboraSK/quote-generator.git"
+    "url": "git+https://github.com/BramboraSK/quote.js.git"
   },
   "keywords": [
     "quote"
   ],
   "author": "BramboraSK",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BramboraSK/quote-generator/issues"
+    "url": "https://github.com/BramboraSK/quote.js/issues"
   },
-  "homepage": "https://github.com/BramboraSK/quote-generator#readme"
+  "homepage": "https://github.com/BramboraSK/quote.js#readme"
 }
