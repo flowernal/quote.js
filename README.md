@@ -1,5 +1,5 @@
-# quote-generator
-Generates a random quote.
+# quote.js
+npm library for picking random quotes with options.
 
 Usage:
 ```JavaScript
