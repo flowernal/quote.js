@@ -1,5 +1,5 @@
 /**
- * Generates random quote(s).
+ * Picks random quote(s).
  * @param {number} amount
  * @param {{ [minLength]: number, [maxLength]: number, [authorIsKnown]: boolean }} [options]
  * @returns {{quoteText: string, quoteAuthor: string}[]}
