@@ -1,7 +1,7 @@
 /**
  * Picks random quote(s).
  * @param {number} amount
- * @param {{ [minLength]: number, [maxLength]: number, [authorIsKnown]: boolean }} [options]
+ * @param {{[minLength]: number, [maxLength]: number, [authorIsKnown]: boolean}} [options]
  * @returns {{quoteText: string, quoteAuthor: string}[]}
  */
 module.exports = (amount = 1, options) => {
