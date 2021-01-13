@@ -1836,7 +1836,7 @@ module.exports = [
     "quoteText": "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
     "quoteAuthor": "Byron Pulsifer"
     }, {
-    "quoteText": "Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.",
+    "quoteText": "Deep listening is miraculous for both listener and speaker. When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.",
     "quoteAuthor": "Sue Patton Thoele"
     }, {
     "quoteText": "You may be deceived if you trust too much, but you will live in torment if you don't trust enough.",
