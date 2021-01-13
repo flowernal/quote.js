@@ -23,7 +23,7 @@ quote(2, { minLength: 100 }); // 2 random quotes with the minimum length of 100
 
 Options:
 ```JavaScript
-options: {
+options = {
   minLength: number,
   maxLength: number,
   authorIsKnown: boolean
