@@ -1,9 +1,9 @@
-# quote-generator
-Generates a random quote.
+# quote.js
+npm library for picking random quotes with options.
 
 Usage:
 ```JavaScript
-const { quote } = require("./quote-generator/index.js");
+const quote = require("quote.js");
 console.log(quote(amount, options));
 ```
 
