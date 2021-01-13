@@ -4,7 +4,7 @@
  * @param {{[minLength]: number, [maxLength]: number, [authorIsKnown]: boolean}} [options]
  * @returns {{quoteText: string, quoteAuthor: string}[]}
  */
-module.exports = (amount = 1, options) => {
+module.exports = (amount = 1, options = {}) => {
     let quotes = require("./quotes");
 
     if(options.minLength) quotes = quotes.filter(e => e.quoteText.length >= options.minLength);
