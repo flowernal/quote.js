@@ -1,6 +1,6 @@
 # quote.js
 npm library for picking random quotes with options.
-There are 4066 quotes.
+There are 1639 quotes.
 
 Installation:
 ```
