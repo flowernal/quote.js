@@ -10,7 +10,7 @@ npm i --save quote.js
 Usage:
 ```JavaScript
 const quote = require("quote.js");
-console.log(quote(amount, options));
+quote(amount, options);
 ```
 
 For example:
